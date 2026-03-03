@@ -1,0 +1,10 @@
+[
+  "Created",
+  "Delivered",
+  "UnDelivered",
+  "Invoiced",
+  "Picking",
+  "Shipped",
+  "AtCollectionPoint",
+  "Cancelled"
+]

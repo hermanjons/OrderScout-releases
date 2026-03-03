@@ -1,0 +1,190 @@
+{
+  "Turkiye": [
+    "Istanbul",
+    "Ankara",
+    "Izmir",
+    "Bursa",
+    "Antalya",
+    "Konya",
+    "Kocaeli",
+    "Adana",
+    "Gaziantep",
+    "Mersin",
+    "Kayseri"
+  ],
+  "Almanya": [
+    "Berlin",
+    "Hamburg",
+    "Munih",
+    "Koln",
+    "Frankfurt"
+  ],
+  "Fransa": [
+    "Paris",
+    "Lyon",
+    "Marsilya",
+    "Nice",
+    "Toulouse"
+  ],
+  "Italya": [
+    "Roma",
+    "Milano",
+    "Torino",
+    "Napoli",
+    "Floransa"
+  ],
+  "Ispanya": [
+    "Madrid",
+    "Barselona",
+    "Valensiya",
+    "Sevilla",
+    "Bilbao"
+  ],
+  "Birlesik Krallik": [
+    "Londra",
+    "Manchester",
+    "Liverpool",
+    "Birmingham",
+    "Leeds"
+  ],
+  "Amerika Birlesik Devletleri": [
+    "New York",
+    "Los Angeles",
+    "Chicago",
+    "Houston",
+    "Miami"
+  ],
+  "Hollanda": [
+    "Amsterdam",
+    "Rotterdam",
+    "Utrecht",
+    "Eindhoven",
+    "Groningen"
+  ],
+  "Belcika": [
+    "Bruksel",
+    "Anvers",
+    "Gent",
+    "Brugge",
+    "Liege"
+  ],
+  "Avusturya": [
+    "Viyana",
+    "Graz",
+    "Linz",
+    "Salzburg",
+    "Innsbruck"
+  ],
+  "Polonya": [
+    "Varsova",
+    "Krakow",
+    "Gdansk",
+    "Wroclaw",
+    "Poznan"
+  ],
+  "Romanya": [
+    "Bucuresti",
+    "Cluj-Napoca",
+    "Iasi",
+    "Timisoara",
+    "Constanta"
+  ],
+  "Bulgaristan": [
+    "Sofya",
+    "Plovdiv",
+    "Varna",
+    "Burgaz",
+    "Ruse"
+  ],
+  "Yunanistan": [
+    "Atina",
+    "Selanik",
+    "Patra",
+    "Larisa",
+    "Kandiye"
+  ],
+  "Portekiz": [
+    "Lizbon",
+    "Porto",
+    "Braga",
+    "Coimbra",
+    "Faro"
+  ],
+  "Kanada": [
+    "Toronto",
+    "Vancouver",
+    "Montreal",
+    "Calgary",
+    "Ottawa"
+  ],
+  "Meksika": [
+    "Mexico City",
+    "Guadalajara",
+    "Monterrey",
+    "Puebla",
+    "Tijuana"
+  ],
+  "Brezilya": [
+    "Sao Paulo",
+    "Rio de Janeiro",
+    "Brasilia",
+    "Belo Horizonte",
+    "Curitiba"
+  ],
+  "Birlesik Arap Emirlikleri": [
+    "Dubai",
+    "Abu Dhabi",
+    "Sharjah",
+    "Ajman",
+    "Ras Al Khaimah"
+  ],
+  "Suudi Arabistan": [
+    "Riyad",
+    "Cidde",
+    "Mekke",
+    "Medine",
+    "Dammam"
+  ],
+  "Rusya": [
+    "Moskova",
+    "St Petersburg",
+    "Kazan",
+    "Novosibirsk",
+    "Yekaterinburg"
+  ],
+  "Hindistan": [
+    "Mumbai",
+    "Delhi",
+    "Bangalore",
+    "Hyderabad",
+    "Chennai"
+  ],
+  "Cin": [
+    "Pekin",
+    "Sanghay",
+    "Shenzhen",
+    "Guangzhou",
+    "Chengdu"
+  ],
+  "Japonya": [
+    "Tokyo",
+    "Osaka",
+    "Kyoto",
+    "Nagoya",
+    "Fukuoka"
+  ],
+  "Guney Kore": [
+    "Seoul",
+    "Busan",
+    "Incheon",
+    "Daegu",
+    "Daejeon"
+  ],
+  "Azerbaycan": [
+    "Baku",
+    "Gence",
+    "Sumgayit",
+    "Lenkeran",
+    "Nakhchivan"
+  ]
+}
