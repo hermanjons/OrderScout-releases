@@ -24,7 +24,6 @@
   },
   "asset": {
     "prefer_extensions": [
-      ".zip",
       ".exe"
     ],
     "name_contains": [
