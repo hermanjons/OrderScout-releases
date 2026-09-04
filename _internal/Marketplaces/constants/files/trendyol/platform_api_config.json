@@ -1,4 +1,8 @@
 {
+  "baseUrls": {
+    "production": "https://apigw.trendyol.com",
+    "stage": "https://stageapigw.trendyol.com"
+  },
   "commonStatusMessages": {
     "200": "İstek başarıyla tamamlandı.",
     "400": "İstek parametreleri geçersiz veya eksik.",
@@ -43,6 +47,10 @@
       "page": 0,
       "size": 1
     },
+    "headers": {
+      "User-Agent": "{account_id}-SelfIntegration",
+      "Accept": "application/json"
+    },
     "successStatusCodes": [
       200
     ],
@@ -82,8 +90,11 @@
         "AtCollectionPoint",
         "Cancelled",
         "UnPacked",
+        "Repack",
         "Delivered",
-        "UnDelivered"
+        "UnDelivered",
+        "Returned",
+        "UnSupplied"
       ],
       "statusLabels": {
         "Awaiting": "Askıda",
@@ -325,6 +336,10 @@
     },
     "listing": {
       "baseUrl": "https://apigw.trendyol.com/integration",
+      "baseUrls": {
+        "production": "https://apigw.trendyol.com/integration",
+        "stage": "https://stageapigw.trendyol.com/integration"
+      },
       "defaultPageSize": 50,
       "approvedMaxPageSize": 100,
       "unapprovedMaxPageSize": 1000,
@@ -365,6 +380,17 @@
             202
           ],
           "successMessage": "Stok ve fiyat güncelleme isteği gönderildi."
+        },
+        "update_approved_content": {
+          "label": "Onaylı ürün içeriği güncelleme",
+          "method": "POST",
+          "path": "/product/sellers/{supplier_id}/products/content-bulk-update",
+          "successStatusCodes": [
+            200,
+            201,
+            202
+          ],
+          "successMessage": "Onaylı ürün içerik güncelleme isteği gönderildi."
         },
         "get_batch_request_result": {
           "label": "Batch sonucu sorgulama",
